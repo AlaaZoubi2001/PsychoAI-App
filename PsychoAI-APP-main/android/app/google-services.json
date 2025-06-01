@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972796679781",
+    "project_id": "psychoai-143a7",
+    "storage_bucket": "psychoai-143a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972796679781:android:ac027f83775a2bc9b5588c",
+        "android_client_info": {
+          "package_name": "com.example.psychoai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5IYAurppuRsrzxpnuQGFFCvUO_dnQ4cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
