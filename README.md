@@ -53,7 +53,7 @@ PsychoAI offers a safe and engaging environment for children (ages 3–10) to ex
 
 - **Sewar Khutbah** – UI/UX Designer & Project Manager  
 - **Aya Asla** – AI/Data Processing Specialist & UX Researcher  
-- **Alaa Zoubi** – Psychologist & Content Developer  
+- **Alaa Zoubi** – Emotional Content Specialist & Quality Assurance Coordinator 
 
 **Project Advisor**: Dr. Michael Vaknin  
 **Project Coordinator**: Dr. Elinor Eitam
